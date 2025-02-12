@@ -24,7 +24,7 @@ _Charity World_ is a compassionate realm within Magic Worlds where players can p
 2. **Talk to the Vice Captain** by walking up ahead and pressing `E`.
 3. **Head straight up to the bridge** and enter by pressing `E`.
 4. **Once in the bridge, climb up the platform** to access the travel console.
-5. **Access the console** by entering the passcode `[789]`.
+5. **Access the console** by entering the passcode `[123]`.
 6. **Select Charity World** in the World Hub.
 7. **Start Exploring**: Engage in charitable missions and connect with virtual communities.
 
